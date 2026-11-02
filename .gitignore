@@ -1,0 +1,14 @@
+.venv/
+venv/
+.tox/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pem
+*.pkl
+dist/
+build/
+*.egg-info/
+evidencias/
+dev/
+package-src/model/datasets/*.csv
